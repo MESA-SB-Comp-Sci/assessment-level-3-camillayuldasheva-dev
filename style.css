@@ -12,8 +12,10 @@
     border: 5px solid red
 }
 
-box-1 {
-    backgorund-color :aqua
+.box-1 {
+    background-color :aqua;
+    padding: 40px;
+
 
 
 
