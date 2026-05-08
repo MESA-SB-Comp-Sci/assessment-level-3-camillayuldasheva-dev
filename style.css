@@ -8,9 +8,19 @@
 
 .heading {
     background-color: pink;
-    margin: 20px
-    border; 5px solid red
+    margin: 20px;
+    border: 5px solid red
 }
 
-box-1
+box-1 {
+    backgorund-color :aqua
+
+
+
+}
+
+
+.p {
+    color: blue; 
+}
 
