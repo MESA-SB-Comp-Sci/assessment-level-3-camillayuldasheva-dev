@@ -35,9 +35,12 @@
 }
 
 #JUST-SOME-TEXT- {
-    color: green; 
+    color: green;
+    display: block;  
+    
 }
 
 #JUST-SOME--TEXT- {
-    color: purple
+    color: purple;
+    display: block; 
 }
